@@ -6,4 +6,10 @@ i am going to add new text files about programming languages that you know about
 
 python
 c 
-html
+css/html
+php
+
+skills 
+
+machine learning
+data science 
