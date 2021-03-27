@@ -13,3 +13,8 @@ skills
 
 machine learning
 data science 
+
+certification:
+mastered in python certification in python
+experiencing with aurdino
+
